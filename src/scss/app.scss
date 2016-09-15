@@ -1,0 +1,7 @@
+// load variable first before it used in another scss files
+@import 'variable';
+
+@import 'dashboard';
+@import 'hero-detail';
+@import 'heroes';
+@import 'home';
